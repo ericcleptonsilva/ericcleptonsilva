@@ -5,6 +5,7 @@
 - 📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a> 
 - 📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a>
 ## Skills
+[![ericcleptonsilva wakatime stats](https://my-github-readme-stats-na6s523st-ericcleptonsilva.vercel.app/api/wakatime?username=ericcleptonsilva)](https://github.com/ericcleptonsilva/my-github-readme-stats)
 
 
 <!---
