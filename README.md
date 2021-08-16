@@ -17,6 +17,14 @@
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
   <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
 </a></div>
+<div>
+[![willianrod's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+  <br>
+<a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ericcleptonsilva&layout=compact" />
+</a></div>
 
 
 <!---
