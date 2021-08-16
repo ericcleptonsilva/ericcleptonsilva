@@ -5,7 +5,16 @@
 - 📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a> 
 - 📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a>
 ## Skills
-[![ericcleptonsilva wakatime stats](https://my-github-readme-stats-na6s523st-ericcleptonsilva.vercel.app/api/wakatime?username=ericcleptonsilva)](https://github.com/ericcleptonsilva/my-github-readme-stats)
+
+## Status
+<div>
+<a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+  <img align="right" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
+</a>
+</div>
 
 
 <!---
