@@ -11,11 +11,11 @@
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
 <img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" />
 </a>
-  </br>
+</div>
+<div>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
   <img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
-</a>
-</div>
+</a></div>
 
 
 <!---
