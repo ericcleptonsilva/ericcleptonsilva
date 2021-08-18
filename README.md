@@ -26,13 +26,13 @@
 ## Status
 <div>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 </a>
-<br>
+<hr>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
 </a>
-<br>
+<hr>
 <a>
 <img align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/302c8602-8f24-46de-84a7-c705cac52b7d.svg" height="350" />
  </a>
