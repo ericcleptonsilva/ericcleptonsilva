@@ -26,7 +26,7 @@
 ## Status
 <div>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="200" />
+<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 </a>
 <br>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
