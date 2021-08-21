@@ -39,7 +39,7 @@
 ## Status do Wakatime
  <div>
  <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime?username=@ericcleptonsilva&layout=compact" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact" />
 </a>
 </div>
 
