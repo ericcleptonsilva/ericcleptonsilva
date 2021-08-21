@@ -34,11 +34,15 @@
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
 </a>
 <hr>
-  <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="center" src="https://my-github-readme-stats-git-master-ericcleptonsilva.vercel.app/api/wakatime?username=@1160dcd8-e90b-448b-83e3-09533442cee6" />
+ </div>
+ 
+## Status do Wakatime
+ <div>
+ <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime?username=@1160dcd8-e90b-448b-83e3-09533442cee6&layout=compact" />
 </a>
 </div>
-## Status do Wakatime
+
 
 
 
