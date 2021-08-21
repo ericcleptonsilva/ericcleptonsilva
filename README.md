@@ -33,14 +33,11 @@
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
 </a>
 <hr>
-  <a> <p>Atividade de codificação</p>
-<img align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/302c8602-8f24-46de-84a7-c705cac52b7d.svg" height="250" />
- </a>
-  <hr>
-  <a> <p>Linguagem</p>
-<img align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/11c96a5f-33e9-4edf-9940-219fcadbc878.svg" height="250" />
- </a>
 </div>
+<div> 
+<aalign="left"> <img align="left" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/302c8602-8f24-46de-84a7-c705cac52b7d.svg" height="350" />Linguagem</a>
+<aalign="center"> <img  align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/11c96a5f-33e9-4edf-9940-219fcadbc878.svg" height="350" />Atividade de codificação</a></div>
+
 
 <!---
 ericcleptonsilva/ericcleptonsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
