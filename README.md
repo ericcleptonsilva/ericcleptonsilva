@@ -4,6 +4,7 @@
 - 💞️ I'm looking to collaborate as a developer
 - 📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a> 
 - 📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a>
+
 ## Skills
 <div>
 <img align="center" alt="python" height="50" width="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -33,7 +34,15 @@
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
 </a>
 <hr>
+  <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+<img align="center" src="https://my-github-readme-stats-git-master-ericcleptonsilva.vercel.app/api/wakatime?username=@1160dcd8-e90b-448b-83e3-09533442cee6" />
+</a>
 </div>
+## Status do Wakatime
+
+
+
+
 
 
 <!---
