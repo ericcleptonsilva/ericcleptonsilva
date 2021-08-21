@@ -24,7 +24,6 @@
   <br>
 </div>
 
-## Status
 <div>
 <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
@@ -35,8 +34,7 @@
 </a>
 <hr>
  </div>
- 
-## Status do Wakatime
+
  <div>
  <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact" />
