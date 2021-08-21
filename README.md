@@ -21,7 +21,7 @@
 
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
   
-  <br>
+  <hr>
 </div>
 
 <div>
