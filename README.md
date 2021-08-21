@@ -35,7 +35,7 @@
 <hr>
 </div>
 <div> 
-<a> <img align="left" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/302c8602-8f24-46de-84a7-c705cac52b7d.svg" height="350" /></a>
+<a> <img align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/302c8602-8f24-46de-84a7-c705cac52b7d.svg" height="350" /></a>
 <a> <img  align="center" src="https://wakatime.com/share/@1160dcd8-e90b-448b-83e3-09533442cee6/11c96a5f-33e9-4edf-9940-219fcadbc878.svg" height="350" /></a>
   </div>
 
