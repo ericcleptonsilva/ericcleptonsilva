@@ -21,23 +21,17 @@
 
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
   
-  <hr>
-</div>
-
-<div>
-<a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
+<hr>
+<a>
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 </a>
-<hr>
-<a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact" />
+
+<a>
+<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 </a>
 <hr>
- </div>
-
- <div>
- <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=@ericcleptonsilva&layout=compact" />
+<a>
+<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 </a>
 </div>
 
