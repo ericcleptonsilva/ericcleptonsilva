@@ -23,7 +23,7 @@
   
 <hr>
 <a>
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
+<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 </a>
 
 <a>
@@ -31,7 +31,7 @@
 </a>
 <hr>
 <a>
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 </a>
 </div>
 
