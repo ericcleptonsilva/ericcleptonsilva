@@ -1,3 +1,4 @@
+
 <div>
 <img align="left" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="200"/>
 
@@ -11,12 +12,9 @@
 <li>📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a></li>
 <li>📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a></li>
 </ul>
-<hr>
 </div>
-
-
-## Skills
 <div>
+  <h3>Skills</h3>
 <img align="center" alt="python" height="50" width="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="center"alt="C Sharp" height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="center"alt="sql" height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
