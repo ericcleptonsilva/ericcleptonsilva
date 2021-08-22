@@ -34,7 +34,7 @@
 <img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" height="100" />
 </a>
   <a>
-  <img align="center" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="150"/>  
+  <img align="center" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>  
   </a>
   <a>
   <img align="right" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="200"/>
