@@ -37,7 +37,7 @@
 
  <div>
  <a href="https://github.com/ericcleptonsilva/my-github-readme-stats">
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact" />
+<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/wakatime?username=@ericcleptonsilva&layout=compact" />
 </a>
 </div>
 
