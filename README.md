@@ -22,21 +22,21 @@
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
   
 <hr>
-<a>
+<a align="center">
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 </a>
 
-<a>
+<a align="center">
 <img align="right" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 </a>
 <hr>
-<a>
+<a align="center">
 <img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" height="100" />
 </a>
-  <a>
+  <a align="center">
   <img align="center" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>  
   </a>
-  <a>
+  <a align="center">
   <img align="right" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="160"/>
   </a>
 </div>
