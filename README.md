@@ -1,8 +1,7 @@
 <div>
-    <a align="center">
-  <img align="left" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="200"/>
-  </a>
-<a>
+<img align="left" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="200"/>
+
+
 <h1>👋 Hi, I’m Eric Clepton</h1>
 <ul>
 <li>👀 I’m interested in App creation and gamer!</li>
@@ -12,9 +11,9 @@
 <li>📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a></li>
 <li>📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a></li>
 </ul>
-  <hr>
-  </div>
-  </a>
+<hr>
+</div>
+
 
 ## Skills
 <div>
@@ -33,21 +32,11 @@
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
   
 <hr>
-<a align="center">
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
-</a>
-
-<a align="center">
 <img align="right" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
-</a>
 <hr>
-<a align="center">
-<img align="left" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/>
-</a>
-  <a align="center">
-  <img align="left" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>  
-  </a>
-
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/>
+ <!---<img align="right" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>   --->
 </div>
 
 
