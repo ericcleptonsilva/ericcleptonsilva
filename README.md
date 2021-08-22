@@ -33,7 +33,7 @@
 <img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 <img align="right" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 <hr>
-<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=@ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/>
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/>
  <!---<img align="right" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>   --->
 </div>
 
