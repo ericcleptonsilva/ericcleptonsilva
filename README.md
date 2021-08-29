@@ -30,8 +30,8 @@
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
   
 <hr>
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
-<img align="center" src="https://my-github-readme-stats-gamma.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
+<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 <hr>
  
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/>
