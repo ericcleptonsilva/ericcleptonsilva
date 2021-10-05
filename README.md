@@ -28,24 +28,16 @@
 <img align="center"alt="JSON" height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 
   <!--- <img align="center"alt="Image" height="42" width="42" src=""/> --->
-  
+<div>
 <hr>
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/?username=ericcleptonsilva&show_icons=true&theme=highcontrast" height="160" />
 <img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast" />
 <hr>
  <a href="https://wakatime.com/@ericcleptonsilva">
-<img align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/></a>
-   <!--- <img align="right" src="https://media4.giphy.com/media/hWe0vN4q4Zp6NvYRmM/giphy.gif"  height="160"/>   --->
+<img  align="center" src="https://my-github-readme-stats-ericcleptonsilva.vercel.app/api/wakatime/?username=ericcleptonsilva&layout=compact&show_icons=true&theme=highcontrast"/></a>
 </div>
 
- 
-
-
-
-
-
-
-
+</div>
 
 
 <!---
