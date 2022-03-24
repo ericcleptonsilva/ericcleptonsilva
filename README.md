@@ -9,7 +9,7 @@
 <li>🌱 I'm currently learning several skills in Flutter, Dart, Firebase, Python, Architerua project database, FullsStak
 </li>
 <li>💞️ I'm looking to collaborate as a developer</li>
-<li>📫 How to reach me <a href="https://linkedin.com/in/ericclepton/">Linkdin</a></li>
+<li>📫 How to reach me<a href="https://www.linkedin.com/in/ericclepton/"> <img align="center"alt="Image" height="auto" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
 <li>📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a></li>
 </ul>
 </div>
@@ -28,7 +28,6 @@
 <img align="center"alt="JSON" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 
   <!--- <img align="center"alt="Image" height="30" width="30" src=""/> --->
-
 
 </div>
 
