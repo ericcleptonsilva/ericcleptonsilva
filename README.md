@@ -41,7 +41,7 @@
  <h2>Wakatime Week Stats</h2>
 </div>
 
- [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva)](https://github.com/ericcleptonsilva/github-readme-stats)
+ [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
 
 
 
