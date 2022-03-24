@@ -32,6 +32,18 @@
   <!--- <img align="center"alt="Image" height="30" width="30" src=""/> --->
 
 </div>
+<h1>Language Card Layout</h1>
+
+[![Top Langs](github-readme-stats-profile-eric.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
+
+<div>
+ <h1>Wakatime Week Stats</h1>
+</div>
+
+ [![willianrod's wakatime stats](github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva)](https://github.com/ericcleptonsilva/github-readme-stats)
+
+
+
 
 
 <!---
