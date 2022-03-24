@@ -9,8 +9,10 @@
 <li>🌱 I'm currently learning several skills in Flutter, Dart, Firebase, Python, Architerua project database, FullsStak
 </li>
 <li>💞️ I'm looking to collaborate as a developer</li>
-<li>📫 How to reach me<a href="https://www.linkedin.com/in/ericclepton/"> <img align="center"alt="Image" height="auto" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
-<li>📚 Studying Systems Analysis and Development at <a href="https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-do-cear%C3%A1/">Estácio Ceará University Center</a></li>
+<li>📫 How to reach me <a href="https://www.linkedin.com/in/ericclepton/"> <img align="center"alt="Image" height="auto" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
+<li>📚 Studying Systems Analysis and Development at <a href="https://www.linkedin.com/in/ericclepton/"> <img align="center"alt="Image" height="auto" width="auto" src="https://estacio.br/assets/imgs/footer/logo-white.svg"/></a>
+ </li>
+
 </ul>
 </div>
 <div>
