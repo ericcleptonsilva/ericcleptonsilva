@@ -15,6 +15,9 @@
 
 </ul>
 </div>
+## Skills
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/ericcleptonsilva/BD-E-COMMERCE/master/puml/Diagrama-BD-E-COMMERCE.puml)
+
 <div>
   <h3>Skills</h3>
 <img align="center" alt="python" height="30" width="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
