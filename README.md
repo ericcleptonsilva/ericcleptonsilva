@@ -15,42 +15,9 @@
 
 </ul>
 </div>
+
 ## Skills
-![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/ericcleptonsilva/BD-E-COMMERCE/master/puml/Diagrama-BD-E-COMMERCE.puml)
 
-<div>
-  <h3>Skills</h3>
-<img align="center" alt="python" height="30" width="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="center "alt="C Sharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="center "alt="sql" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="center" alt="SQLite" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png"/>
-<img align="center" alt="Flutter" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"/> 
-<img align="center" alt="dart" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png"/>
-<img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="center" alt="javascript" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="center" alt="PHP" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
-<img align="center" alt="JSON" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/ericcleptonsilva/ericcleptonsilva/main/src/Skills/skills.puml)
 
-  <!--- <img align="center"alt="Image" height="30" width="30" src=""/> --->
-
-</div>
-<!--- <div>
-<h2>Language Card Layout</h2>
-
-[![Top Langs](https://github-readme-stats-profile-eric.vercel.app/api/top-langs/?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
-</div>--->
-<div>
- <h2>Wakatime Week Stats</h2>
-</div>
-
- [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
-
-
-
-
-
-<!---
-ericcleptonsilva/ericcleptonsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
