@@ -2,7 +2,6 @@
 <div>
 <img align="left" src="https://media3.giphy.com/media/8DsgB9ddgh7OAKQ01u/giphy.gif"  height="200"/>
 
-
 <h1>👋 Hi, I’m Eric Clepton</h1>
 <ul>
 <li>👀 I’m interested in App creation and gamer!</li>
@@ -15,9 +14,10 @@
 
 </ul>
 </div>
-
-## Skills
+<!--- 
 
 ![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/ericcleptonsilva/ericcleptonsilva/main/src/Skills/skills.puml)
+---->
+## Skills
 
 [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
