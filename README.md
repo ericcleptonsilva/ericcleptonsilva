@@ -7,7 +7,7 @@
 </li>
 <li>💞️ I'm looking to collaborate as a developer</li>
 <li>📫 How to reach me <a href="https://www.linkedin.com/in/ericclepton/"> <img align="center"alt="Image" height="auto" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
-<li>📄 <a href="https://ericcleptonsilva.notion.site/b3dcc711525e4d0cad2dbae0611b3dc8"><img align="center"alt="Image" height="auto" width="auto"  src="https://img.shields.io/badge/Curriculum-Aqui-blue" /></a></li>
+<li>📄 Curriculum <a href="https://ericcleptonsilva.notion.site/b3dcc711525e4d0cad2dbae0611b3dc8"><img align="center"alt="Image" height="auto" width="auto"  src="https://img.shields.io/badge/Curriculum-Aqui-blue" /></a></li>
 <li>📚 Studying Systems Analysis and Development at <strong>Centro Universitário Estácio do Ceará</strong> <a href="https://estacio.br/"> <img align="center"alt="Image" height="auto" width="auto" src="https://portal.estacio.br/img/logo-estacio-horizontal.png"/></a>
 
  </li>
