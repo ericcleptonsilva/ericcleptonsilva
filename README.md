@@ -20,7 +20,8 @@
 ![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/ericcleptonsilva/ericcleptonsilva/main/src/Skills/skills.puml)
 ---->
 ## Skills
-
+<!---
 [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
-
+--->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6459b4e1f3d9ecfa51d817e5?variant=dark)](https://roadmap.sh)
 
