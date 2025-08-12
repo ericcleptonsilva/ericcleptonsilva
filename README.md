@@ -24,4 +24,5 @@
 [![ericcleptonsilva's wakatime stats](https://github-readme-stats-profile-eric.vercel.app/api/wakatime?username=ericcleptonsilva&layout=compact)](https://github.com/ericcleptonsilva/github-readme-stats)
 --->
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6459b4e1f3d9ecfa51d817e5?variant=dark)](https://roadmap.sh)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcleptonsilva&exclude_repo=github-readme-stats,ericcleptonsilva.github.io)](https://github.com/ericcleptonsilva/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericcleptonsilva)](https://github.com/ericcleptonsilva/github-readme-stats)
